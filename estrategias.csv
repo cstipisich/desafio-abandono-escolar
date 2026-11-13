@@ -1,0 +1,9 @@
+estrategia,alumnos_con_plata,monto_por_alumno_mediana,ganancia,ratio_vs_kkt
+KKT óptimo (entrega),4306,258.55,588.37,1.0
+Top-1 % concentrado,2982,335.35,566.49,0.963
+Top-2 % concentrado,5963,167.7,475.48,0.808
+Top-0.5 % concentrado,1491,670.69,459.52,0.781
+Top-5 % concentrado,14909,67.07,296.06,0.503
+Top-10 % concentrado,29817,33.54,190.9,0.324
+Top-20 % concentrado,59635,16.77,117.46,0.2
+Uniforme entre todos,298173,3.35,32.68,0.056
