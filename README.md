@@ -4,6 +4,8 @@
 **Curso:** Aplicación de Ciencia de Datos — Clase 6/7
 **Fecha:** noviembre 2026
 
+📄 **[Ver presentación en PDF](./PRESENTACION.pdf)**
+
 ## Qué hicimos, en una frase
 
 Entrenamos un modelo de riesgo de abandono (LightGBM, AUC 0,842 en validación 2020),
